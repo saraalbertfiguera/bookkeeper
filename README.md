@@ -1,2 +1,0 @@
-# bookkeeper
-App Android
